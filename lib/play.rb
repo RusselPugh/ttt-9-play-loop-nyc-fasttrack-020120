@@ -39,5 +39,9 @@ end
 def play(board)
   incrementor = 0 
   while incrementor < 9 
-  
+  incrementor = incrementor + 1 
+  turn(board)
+  end
+end 
+
   
