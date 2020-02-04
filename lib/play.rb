@@ -37,4 +37,7 @@ end
 
 # Define your play method below
 def play(board)
+  incrementor = 0 
+  while incrementor < 9 
+  
   
